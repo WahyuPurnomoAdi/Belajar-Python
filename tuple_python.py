@@ -1,6 +1,4 @@
-tuple = ('januari', 'februari', 'maret', 'april')
-
-print(tuple[0])
-
-tuple = ('desember')
-print(tuple[0])
+contoh_tuple=('Januari','Februari','Maret','April')
+print(contoh_tuple)
+contoh_tuple[0]='Desember'
+print(contoh_tuple[[0]])
