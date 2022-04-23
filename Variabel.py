@@ -1,3 +1,4 @@
-Bil1=20
-Bil2=Bil1-10
-print(Bil2)
+bilangan1 = 20
+bilangan2 = 10
+pengurangan = bilangan1 - bilangan2
+print (pengurangan)
